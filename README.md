@@ -1,1 +1,1 @@
-# PrayasHult22
+Prayas helps emerging brands make the best use of available data, and enter the Food Supply Chain effectively. Established brands can offset losses, by improving regional sales in poorly-performing markets.
