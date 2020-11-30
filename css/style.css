@@ -1856,6 +1856,13 @@ footer {
     text-align: center;
 }
 
+@media (max-width:568px)
+{
+    .growthdevelopment_info{
+        display:none;
+    }
+}
+
 .growthdevelopment_view {
     width: 100%;
     position: relative;
@@ -1963,6 +1970,13 @@ footer {
 .ourstandpoint_info {
     width: 100%;
     padding: 70px 0;
+}
+
+@media (max-width:568px)
+{
+    .ourstandpoint_img{
+        visibility: hidden;
+    }
 }
 
 .ourstandpoint_list {
